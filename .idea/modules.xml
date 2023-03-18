@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StackWithSymble.iml" filepath="$PROJECT_DIR$/StackWithSymble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackWithSymbolBracket.iml" filepath="$PROJECT_DIR$/StackWithSymbolBracket.iml" />
     </modules>
   </component>
 </project>
